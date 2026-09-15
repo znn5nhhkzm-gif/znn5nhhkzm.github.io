@@ -1,3 +1,3 @@
 # znn5nhhkzm.github.io
-Equilibre-Amiens
+Equilibre-Amiens.com
 _config.yml
